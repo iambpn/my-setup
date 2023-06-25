@@ -5,7 +5,7 @@ Vault to store a sensitive data
  - Add execute permission to scripts: `chmod +x <script_name> `
 
 ### Basic Commands:
-Encrypt using: `anisble-vault encrypt <files>`
+Encrypt using: `ansible-vault encrypt <files>`
 
 Decrypt using: `ansible-vault decrypt <files>`
 
