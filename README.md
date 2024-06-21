@@ -32,7 +32,7 @@ Install ansible: https://docs.ansible.com/ansible/latest/installation_guide/intr
 
 - Linux
 
-  - Install `Diodon` as clipbard manager
+  - Install `Diodon` as clipbard manager and setup `hotkey`
 
 ### Default bash extension
 
